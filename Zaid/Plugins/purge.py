@@ -109,7 +109,7 @@ async def purge_to_(event):
     await event.respond(translate("Purge complete!", event.chat_id))
 
 
-@Zbot(pattern="^/del(?: |$|@Zaid2_Robot)(.*)")
+@Zbot(pattern="^/del(?: |$|@taxfcr_bot)(.*)")
 async def deve(event):
     if (
         event.text.startswith("+delall")
@@ -133,7 +133,7 @@ async def deve(event):
         await event.delete()
 
 
-@Zbot(pattern="^/spurge(?: |$|@Zaid2_Robot)(.*)")
+@Zbot(pattern="^/spurge(?: |$|@taxfcr_bot)(.*)")
 async def b(event):
     lt = event.pattern_match.group(1)
     if lt:
