@@ -9,8 +9,8 @@
 <a href="https://app.codacy.com/manual/ITZ-ZAID/Telegram/dashboard"><img src="https://img.shields.io/codacy/grade/d1726ee34f964a9a9b1ac509c6d90729?color=gold&logo=github&style=social" />
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Telegram&theme=dark" /></a></p>
-<p align="center"><a href="https://github.com/ITZ-ZAID/Telegram/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?style=social" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KARNATAKAHACKER&repo=AGORAFCRBOT&theme=dark" /></a></p>
+<p align="center"><a href="https://github.com/KARNATAKAHACKER/AGORAFCRBOT/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?style=social" />
 </p>
 
 ## How To Host
