@@ -38,9 +38,9 @@ python3 -m Zaid # start the bot.
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩</p>
 
 <p align="center">
-    <a href="https://t.me/TheSupportChat"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Group-critical" /> </a>
+    <a href="https://t.me/DO_JISM_EK_JAAN_OP"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Group-critical" /> </a>
 </p>
-<a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/Telegram-𝐔𝐩𝐝𝐚𝐭𝐞%20'𝐬%20𝐂𝐡𝐚𝐧𝐧𝐞𝐥%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+<a href="https://t.me/ABOUTAGORA"><img src="https://img.shields.io/badge/Telegram-𝐔𝐩𝐝𝐚𝐭𝐞%20'𝐬%20𝐂𝐡𝐚𝐧𝐧𝐞𝐥%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 
 
 #
